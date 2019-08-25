@@ -1,0 +1,17 @@
+table th, table td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: left;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+th {
+    background-color: #2b6ca4;
+    color: white;
+}
+
+td {
+    color: black;
+}
